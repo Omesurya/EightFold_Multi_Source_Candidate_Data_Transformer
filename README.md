@@ -19,4 +19,3 @@ Designed as part of the **Eightfold Engineering Intern (Jul-Dec 2026) Assignment
 ```text
 ├── transformer.py          # Core pipeline processing engine and CLI runner
 ├── README.md               # Setup instructions and documentation
-└── OmeSuryaManikanta_omesuryamanikanta@gmail.com_Eightfold.pdf  # Technical Design One-Pager
